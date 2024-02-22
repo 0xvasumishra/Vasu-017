@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vasu-017
+- 👋 Hi, I’m @VasuMishra
 - 👀 I’m interested in Full stack development
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on web development projects
